@@ -6,5 +6,5 @@ Soy estudiante de Ingeniería en Telecomunicaciones
 - **Telecomunicaciones:** 
 
 
-🚀 **Sobre lo que estoy construyendo:**
+**Sobre lo que estoy construyendo:**
 Actualmente desarrollo soluciones de análisis geoespacial y Dashboards interactivos en Python para la visualización masiva y gestión de infraestructura de telecomunicaciones multi-operadora.
